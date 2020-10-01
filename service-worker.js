@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Starfighter/precache-manifest.3b34da7a8e71539ae47061f5ab7400b4.js"
+  "/Starfighter/precache-manifest.952b9bbdee133418d243fac0aedb22e9.js"
 );
 
 self.addEventListener('message', (event) => {
