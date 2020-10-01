@@ -1,28 +1,29 @@
 {
   "files": {
     "main.css": "/Starfighter/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Starfighter/static/js/main.7b51af14.chunk.js",
-    "main.js.map": "/Starfighter/static/js/main.7b51af14.chunk.js.map",
+    "main.js": "/Starfighter/static/js/main.1e479204.chunk.js",
+    "main.js.map": "/Starfighter/static/js/main.1e479204.chunk.js.map",
     "runtime-main.js": "/Starfighter/static/js/runtime-main.561575a6.js",
     "runtime-main.js.map": "/Starfighter/static/js/runtime-main.561575a6.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/Starfighter/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.dc0ec7cf.chunk.js": "/Starfighter/static/js/2.dc0ec7cf.chunk.js",
-    "static/js/2.dc0ec7cf.chunk.js.map": "/Starfighter/static/js/2.dc0ec7cf.chunk.js.map",
+    "static/js/2.6a5a265e.chunk.js": "/Starfighter/static/js/2.6a5a265e.chunk.js",
+    "static/js/2.6a5a265e.chunk.js.map": "/Starfighter/static/js/2.6a5a265e.chunk.js.map",
     "index.html": "/Starfighter/index.html",
-    "precache-manifest.952b9bbdee133418d243fac0aedb22e9.js": "/Starfighter/precache-manifest.952b9bbdee133418d243fac0aedb22e9.js",
+    "precache-manifest.13760e091d5392aa86e668791e95ea84.js": "/Starfighter/precache-manifest.13760e091d5392aa86e668791e95ea84.js",
     "service-worker.js": "/Starfighter/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/Starfighter/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/Starfighter/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.dc0ec7cf.chunk.js.LICENSE.txt": "/Starfighter/static/js/2.dc0ec7cf.chunk.js.LICENSE.txt",
+    "static/js/2.6a5a265e.chunk.js.LICENSE.txt": "/Starfighter/static/js/2.6a5a265e.chunk.js.LICENSE.txt",
     "static/media/STARFIGHTER-cover-red.jpg": "/Starfighter/static/media/STARFIGHTER-cover-red.b884768e.jpg",
     "static/media/background2.jpg": "/Starfighter/static/media/background2.587a7735.jpg",
-    "static/media/band-pic1.png": "/Starfighter/static/media/band-pic1.6ad14693.png"
+    "static/media/band-pic1.png": "/Starfighter/static/media/band-pic1.6ad14693.png",
+    "static/media/header-bar.png": "/Starfighter/static/media/header-bar.5e433f0d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.561575a6.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.dc0ec7cf.chunk.js",
+    "static/js/2.6a5a265e.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.7b51af14.chunk.js"
+    "static/js/main.1e479204.chunk.js"
   ]
 }
